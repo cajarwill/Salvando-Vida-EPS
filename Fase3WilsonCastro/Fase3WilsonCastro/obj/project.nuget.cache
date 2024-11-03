@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAyEK7OM+XvmzMVywbJiDbzkxPs+PqmykkRjXCfu2d9ydMFyQJB4zrYDGV4Gp6RbIliEH3vBYAX/yLgPhR3p3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarwi\\Desktop\\UNAD_ED\\Fase3WilsonCastro\\Fase3WilsonCastro\\Fase3WilsonCastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarwi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\jarwi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\jarwi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\jarwi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
